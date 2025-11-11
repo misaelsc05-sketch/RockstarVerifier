@@ -1,0 +1,9 @@
+{
+  "name": "Verificador Rockstar Night",
+  "short_name": "RockstarQR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#f7b733",
+  "icons": []
+}
